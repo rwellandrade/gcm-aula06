@@ -2,10 +2,14 @@
 
 Ferramentas de Controle de Versão:
 
-* RCV
+* RCS
+* Perforce
 * CVS
 * Source Safe
+* Bazaar
  * SVN
  * Mercurial
- * GitHub
- * Bitbucket
+ * Clear Case
+ * Git
+ * Visual Studio Team Services 
+
