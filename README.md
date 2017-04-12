@@ -5,7 +5,12 @@ Ferramentas de Controle de Versão:
 * RCV
 * CVS
 * Source Safe
- * SVN
+* SVN
  * Mercurial
  * Perforce
  * Bitbucket
+=======
+* Clear Case
+* Mercurial
+* GitHub
+* Bitbucket
